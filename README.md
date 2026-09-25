@@ -15,9 +15,9 @@ Built for an application that takes downstream actions from gender (and real vs 
 **This repository is code only.** Released ONNX weights (and labels / metrics) live on Hugging Face:
 
 <!-- HF_MODEL_URL -->
-**Weights:** https://huggingface.co/YOUR_HF_USERNAME/gender4-whole-image-5class
+**Weights:** https://huggingface.co/haichteque/gender4-whole-image-5class
 
-Replace `YOUR_HF_USERNAME` (or the whole URL) after you publish the model.
+
 
 ## Scripts
 
