@@ -1,0 +1,10 @@
+# Intended for Kaggle GPU notebooks (or any CUDA host).
+# torch and torchvision are provided by Kaggle images; install extras:
+#
+#   pip install -q onnx onnxruntime tqdm
+#
+# Scripts: train.py, eval.py, export_onnx.py, model.py
+
+onnx
+onnxruntime
+tqdm
